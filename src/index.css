@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Calendar Heatmap custom colors */
+.react-calendar-heatmap .color-empty {
+  fill: #edf2f7;
+}
+
+.react-calendar-heatmap .color-scale-1 {
+  fill: #c6f6d5;
+}
+
+.react-calendar-heatmap .color-scale-2 {
+  fill: #9ae6b4;
+}
+
+.react-calendar-heatmap .color-scale-3 {
+  fill: #68d391;
+}
+
+.react-calendar-heatmap .color-scale-4 {
+  fill: #48bb78;
+}
